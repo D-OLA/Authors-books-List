@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: lightgrey;
+    font-family: 'Roboto', sans-serif;
+}
+
+#output {
+    width: 90%;
+}
+
+.input {
+    margin-top: 2.5rem;
+}
+
+
+.butt {
+    background-color: red;
+    font-weight: bolder;
+    border-style: none;
+}
